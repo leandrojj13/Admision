@@ -1,0 +1,4 @@
+<?php
+echo "sadas";
+//shell_exec("shutdown -s -t 0 -f");
+?>
