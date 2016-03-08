@@ -1,0 +1,12 @@
+<?php 
+include('config.php');
+include('conexion.php');
+include('cls_Estudiantes.php');
+include('cls_Tutores.php');
+include('cls_Usuario.php');
+include('cls_Notificaciones.php');
+include('cls_Mensajes.php');
+include('cls_MensajesEstudiantes.php');
+include('cls_EstudiantesAprobado.php');
+include('cls_Administradores.php');
+?>
